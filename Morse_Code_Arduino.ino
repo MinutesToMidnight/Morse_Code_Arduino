@@ -34,7 +34,7 @@
 
 #define LED_Pin         13
 #define Speaker_Pin     10
-const char Message[] PROGMEM = "hello i am beeping morse code"; //must be lower case
+const char Message[] = "hello i am beeping morse code"; //must be lower case
 
 void setup()
 {
